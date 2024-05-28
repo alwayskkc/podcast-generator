@@ -1,4 +1,4 @@
-name: "Podcast Generator 2024"
+name: "The-Ultimate-Podcast-Generator-2024"
 author: "Kesava"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
